@@ -1,10 +1,15 @@
-## Hi
+## Hi, my name is Jeong Joon Cho
 
 
 
-> My name is JeongJoon.
->
-> good.
+> 
+> ## skills 🤹‍♀️
+- Java, Oracle, Spring, Mysql, JQuery, JS, Mybatis
+
+<br><br>
+
+> ## Interest 👀
+- Back-End
 
 
 
